@@ -1,4 +1,4 @@
-### Hey, let me introduce to you👋
+### Hey, let me introduce myself to you👋
 
 - 🦉 I'm currently studying Information Technology - Game Experience Development
 - 🌱 I’m currently learning ASP.NET MVC 6.0, DOT.NET, Java and C++
