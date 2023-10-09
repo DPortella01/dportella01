@@ -5,9 +5,12 @@
 - 👯 I’m looking to get an IT internship where I will be able to develop myself
 - 📫 Contact me: portelladiego@outlook.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dportella01&show_icons=true&text_color=EB7015&title_color=EB7015&border_color=EB7015&bg_color=262626&icon_color=EB7015)
 
-<div style="display: inline_block"><br>
+![Diego Portella's GitHub stats](https://github-readme-stats.vercel.app/api?username=dportella01&show_icons=true&text_color=EB7015&title_color=EB7015&border_color=EB7015&bg_color=262626&icon_color=EB7015)
+
+![](https://komarev.com/ghpvc/?username=dportella01&style=flat-square)
+
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Diego-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Diego-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Diego-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -17,7 +20,8 @@
   <img align="center" alt="Diego-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Diego-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Diego-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Diego-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+  <img align="center" alt="Diego-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+  <img align="center" alt="Diego-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
   
   ##
