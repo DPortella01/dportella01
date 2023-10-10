@@ -3,10 +3,10 @@
 - 🦉 I'm currently studying Information Technology - Game Experience Development
 - 🌱 I’m currently learning ASP.NET MVC 6.0, DOT.NET, Java, and C++
 - 👯 I’m looking to get an IT internship where I will be able to develop myself
-- 📫 Contact me: portelladiego@outlook.com
 
-
-![Diego Portella's GitHub stats](https://github-readme-stats.vercel.app/api?username=dportella01&show_icons=true&text_color=EB7015&title_color=EB7015&border_color=EB7015&bg_color=262626&icon_color=EB7015)
+<div align="center"> 
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DPortella01&show_icons=true&text_color=EB7015&title_color=EB7015&border_color=EB7015&bg_color=262626&icon_color=EB7015"/>
+</div>
 
 ![](https://komarev.com/ghpvc/?username=dportella01&style=flat-square)
 
@@ -27,6 +27,6 @@
   ##
  
 <div>
-  <a href="https://img.shields.io/badge/just%20the%20message-8A2BE2" target="_blank"</a>
-  <a href="https://www.linkedin.com/in/diegoportella" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/diegoportella" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:portelladiego@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
