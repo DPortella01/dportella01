@@ -4,6 +4,8 @@
 Hello, I'm Diego Portella, a 33-year-old Brazilian who is deeply enthusiastic about technology and innovation. In 2022, I relocated to Moncton, New Brunswick, Canada, with a clear goal: to succeed in Information Technology. With a bachelor’s degree in Advertising and Propaganda and a Post-Graduate Diploma in Digital Marketing, I'm currently nearing the completion of my studies in Information Technology, specializing in Game Experience Development at NBCC in Moncton. I'm eager to apply my expertise to an enriching IT internship because I am skilled in various programming languages and technologies, such as C++, C#, ASP.NET, QA, ADO.NET, SQL Server, and JavaScript.
 </div>
 
+<br>
+
 
 <div align="center"> 
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DPortella01&show_icons=true&text_color=EB7015&title_color=EB7015&border_color=EB7015&bg_color=262626&icon_color=EB7015"/>
