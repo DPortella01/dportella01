@@ -1,7 +1,7 @@
 ### Hey, let me introduce myself to you
 
 <div align="justify">
-Hello, I'm <b>Diego Portella</b>, a 33-year-old Brazilian passionate about technology and innovation. In 2022, I relocated to Moncton, New Brunswick, Canada, with a clear goal: to succeed in Information Technology. With a bachelor’s degree in Advertising and Propaganda and a Post-Graduate Diploma in Digital Marketing, I'm currently nearing the completion of my studies in Information Technology, specializing in Game Experience Development at NBCC in Moncton. I'm eager to apply my expertise to an enriching IT internship because I am skilled in various programming languages and technologies, such as <b>C++, C#, ASP.NET, QA, ADO.NET, SQL Server, and JavaScript</b>.
+Hello, I'm <b>Diego Portella</b>, a 33-year-old Brazilian passionate about technology and innovation. In 2022, I relocated to Moncton, New Brunswick, Canada, with a clear goal: to succeed in Information Technology. With a bachelor’s degree in Advertising and Propaganda and a Post-Graduate Diploma in Digital Marketing, I'm currently nearing the completion of my studies in Information Technology, specializing in Game Experience Development at NBCC in Moncton. I'm eager to apply my expertise to an enriching IT internship where I am skilled in various programming languages and technologies, such as <b>C++, C#, ASP.NET, QA, ADO.NET, SQL Server, and JavaScript</b>.
 </div>
 
 <br>
